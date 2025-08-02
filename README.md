@@ -1,6 +1,9 @@
 # CSARCH2-uProgramming
 CSARCH2 Case Study 2 S11 Group 3
 Matthew Uy
+Hans Christian Mascardo
+Lorenzo Carmona
+Matthew Fontillias
 
 The Repo contains the zip of Minecraft Case Study 2 World
 Implemented the Register Controller, Control Unit OpCodes and ALU with the provided OpCodes:
